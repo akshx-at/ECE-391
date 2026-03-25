@@ -18,6 +18,15 @@ ECE-391/
 └── README.md
 ```
 
+## Skill Areas This Repository Can Represent
+
+Once project material is added, this repository can be used to showcase:
+
+- systems programming
+- operating systems or low-level software work
+- testing and debugging complex course projects
+- technical documentation for multi-component implementations
+
 ## Status
 
 Current status: empty repository with professional starter documentation added for future use.
